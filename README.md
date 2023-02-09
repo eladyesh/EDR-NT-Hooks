@@ -5,7 +5,7 @@ Checks for NT potentially hooked calls by the EDR system by looking at the inita
 
 ## False Positives
 There are a few false positives that might occur for the following functions
-[x] NtGetTickCount
+NtGetTickCount
 NtQuerySystemTime
 NtdllDefWindowProc_A
 NtdllDefWindowProc_W
