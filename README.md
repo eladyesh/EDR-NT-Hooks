@@ -14,4 +14,4 @@ There are a few false positives that might occur for the following functions
 - ZwQuerySystemTime
 
 
-![nt_hooks_edr](
+![nt](https://user-images.githubusercontent.com/102996033/218040594-39da0a05-0695-443d-b830-5aa0275027d7.png)
