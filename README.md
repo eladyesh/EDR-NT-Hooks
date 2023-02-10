@@ -13,5 +13,6 @@ There are a few false positives that might occur for the following functions
 - NtdllDialogWndProc_W
 - ZwQuerySystemTime
 
+A sample run from Visual Studio - 
 
 ![nt](https://user-images.githubusercontent.com/102996033/218040594-39da0a05-0695-443d-b830-5aa0275027d7.png)
